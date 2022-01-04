@@ -1,2 +1,2 @@
-# SharedSitecore.Forms.Fields.ReCaptcha
+# Shared.SharedSitecore.Forms.Fields.ReCaptcha
 Sitecore Forms Google ReCaptcha Field
